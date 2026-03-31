@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suleman-Arshad
-- 👀 I’m interested in AI and DSA 
+- 👀 I’m interested in AI , DSA and Development
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on Google
 
